@@ -2,7 +2,7 @@
   "bps": [
     {
       "site": "124S",
-      "chaild_bp": "US0004204",
+      "child_bp": "US0004204",
 	   "parent_bp": "US0004204",
 	    "reason": "Combine"
     },
