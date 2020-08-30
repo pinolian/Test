@@ -1,24 +1,24 @@
 {
-  "BPS": [
+  "bps": [
     {
       "site": "124S",
-      "Child_BP": "US0004204",
-	   "Parent_BP": "US0004204",
-	    "Reason": "Combine"
+      "chaild_bp": "US0004204",
+	   "parent_bp": "US0004204",
+	    "reason": "Combine"
     },
 	
 	 {
       "site": "124S",
-      "Child_BP": "US0006249",
-	   "Parent_BP": "US0004204",
-	    "Reason": "Combine"
+      "child_bp": "US0006249",
+	   "parent_bp": "US0004204",
+	    "reason": "Combine"
     },
 	
 		 {
       "site": "124S",
-      "Child_BP": "US0004847",
-	   "Parent_BP": "US0004847 ",
-	    "Reason": "Combine"
+      "child_bp": "US0004847",
+	   "parent_bp": "US0004847 ",
+	    "reason": "Combine"
     }
   ]
  
